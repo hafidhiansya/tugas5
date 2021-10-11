@@ -1,0 +1,14 @@
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\bin\Debug\netcoreapp3.1\SistemPenggajianTes.exe
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\bin\Debug\netcoreapp3.1\SistemPenggajianTes.deps.json
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\bin\Debug\netcoreapp3.1\SistemPenggajianTes.runtimeconfig.json
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\bin\Debug\netcoreapp3.1\SistemPenggajianTes.runtimeconfig.dev.json
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\bin\Debug\netcoreapp3.1\SistemPenggajianTes.dll
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\bin\Debug\netcoreapp3.1\SistemPenggajianTes.pdb
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\obj\Debug\netcoreapp3.1\SistemPenggajianTes.csproj.AssemblyReference.cache
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\obj\Debug\netcoreapp3.1\SistemPenggajianTes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\obj\Debug\netcoreapp3.1\SistemPenggajianTes.AssemblyInfoInputs.cache
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\obj\Debug\netcoreapp3.1\SistemPenggajianTes.AssemblyInfo.cs
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\obj\Debug\netcoreapp3.1\SistemPenggajianTes.csproj.CoreCompileInputs.cache
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\obj\Debug\netcoreapp3.1\SistemPenggajianTes.dll
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\obj\Debug\netcoreapp3.1\SistemPenggajianTes.pdb
+C:\Users\MHA\source\repos\SistemPenggajianTes\SistemPenggajianTes\obj\Debug\netcoreapp3.1\SistemPenggajianTes.genruntimeconfig.cache
