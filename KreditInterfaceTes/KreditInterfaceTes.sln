@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KreditInterfaceTes", "KreditInterfaceTes\KreditInterfaceTes.csproj", "{77703329-6D37-4A21-826C-DDEA46F35DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77703329-6D37-4A21-826C-DDEA46F35DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77703329-6D37-4A21-826C-DDEA46F35DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77703329-6D37-4A21-826C-DDEA46F35DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77703329-6D37-4A21-826C-DDEA46F35DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {699904BB-A83C-4A67-B5DE-14398997F624}
+	EndGlobalSection
+EndGlobal

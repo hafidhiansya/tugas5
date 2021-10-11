@@ -1,0 +1,14 @@
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\bin\Debug\netcoreapp3.1\KreditInterfaceTes.exe
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\bin\Debug\netcoreapp3.1\KreditInterfaceTes.deps.json
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\bin\Debug\netcoreapp3.1\KreditInterfaceTes.runtimeconfig.json
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\bin\Debug\netcoreapp3.1\KreditInterfaceTes.runtimeconfig.dev.json
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\bin\Debug\netcoreapp3.1\KreditInterfaceTes.dll
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\bin\Debug\netcoreapp3.1\KreditInterfaceTes.pdb
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\obj\Debug\netcoreapp3.1\KreditInterfaceTes.csproj.AssemblyReference.cache
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\obj\Debug\netcoreapp3.1\KreditInterfaceTes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\obj\Debug\netcoreapp3.1\KreditInterfaceTes.AssemblyInfoInputs.cache
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\obj\Debug\netcoreapp3.1\KreditInterfaceTes.AssemblyInfo.cs
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\obj\Debug\netcoreapp3.1\KreditInterfaceTes.csproj.CoreCompileInputs.cache
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\obj\Debug\netcoreapp3.1\KreditInterfaceTes.dll
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\obj\Debug\netcoreapp3.1\KreditInterfaceTes.pdb
+C:\Users\MHA\source\repos\KreditInterfaceTes\KreditInterfaceTes\obj\Debug\netcoreapp3.1\KreditInterfaceTes.genruntimeconfig.cache
