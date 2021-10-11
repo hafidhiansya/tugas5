@@ -1,0 +1,14 @@
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\obj\Debug\netcoreapp3.1\KomisiKaryawanTes.csproj.AssemblyReference.cache
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\obj\Debug\netcoreapp3.1\KomisiKaryawanTes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\obj\Debug\netcoreapp3.1\KomisiKaryawanTes.AssemblyInfoInputs.cache
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\obj\Debug\netcoreapp3.1\KomisiKaryawanTes.AssemblyInfo.cs
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\obj\Debug\netcoreapp3.1\KomisiKaryawanTes.csproj.CoreCompileInputs.cache
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\bin\Debug\netcoreapp3.1\KomisiKaryawanTes.exe
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\bin\Debug\netcoreapp3.1\KomisiKaryawanTes.deps.json
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\bin\Debug\netcoreapp3.1\KomisiKaryawanTes.runtimeconfig.json
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\bin\Debug\netcoreapp3.1\KomisiKaryawanTes.runtimeconfig.dev.json
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\bin\Debug\netcoreapp3.1\KomisiKaryawanTes.dll
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\bin\Debug\netcoreapp3.1\KomisiKaryawanTes.pdb
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\obj\Debug\netcoreapp3.1\KomisiKaryawanTes.dll
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\obj\Debug\netcoreapp3.1\KomisiKaryawanTes.pdb
+C:\Users\MHA\source\repos\KomisiKaryawanTes\KomisiKaryawanTes\obj\Debug\netcoreapp3.1\KomisiKaryawanTes.genruntimeconfig.cache
